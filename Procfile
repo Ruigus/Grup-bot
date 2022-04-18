@@ -1,0 +1,1 @@
+Worker = node Bot Grup.py
